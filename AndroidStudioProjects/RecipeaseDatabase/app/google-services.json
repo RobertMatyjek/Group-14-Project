@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573457288425",
+    "firebase_url": "https://recipease-database.firebaseio.com",
+    "project_id": "recipease-database",
+    "storage_bucket": "recipease-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573457288425:android:e4ed9335d7b2f2c7",
+        "android_client_info": {
+          "package_name": "com.example.andrewratz.recipeasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573457288425-qaofccm8u1p1vfjghgld69hr0ujvc41h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andrewratz.recipeasedatabase",
+            "certificate_hash": "95c716b60bfec0ff85ee35f7b1b3aed32ef3bb81"
+          }
+        },
+        {
+          "client_id": "573457288425-3n7mng9hepee01a4vvqcpiu0smuoog4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7gK2UQWFp__ueQL2oBZ5g2d5GJvn_HJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573457288425-3n7mng9hepee01a4vvqcpiu0smuoog4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
