@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "981859117442",
+    "firebase_url": "https://recipease-34ed8.firebaseio.com",
+    "project_id": "recipease-34ed8",
+    "storage_bucket": "recipease-34ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981859117442:android:7dc9daa1ab3f440f",
+        "android_client_info": {
+          "package_name": "com.recipease.recipease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981859117442-vdejonji81ljcscbbpgl7guk2ffg8a8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipease.recipease",
+            "certificate_hash": "de87f8a0d7c1678062f5d5f20859ece3c1258656"
+          }
+        },
+        {
+          "client_id": "981859117442-thn8bblijvt3gim4seman933g1lja6kc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAerBlzsIXorSwiepHmwJ8KRYkuNVPKIng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981859117442-thn8bblijvt3gim4seman933g1lja6kc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
